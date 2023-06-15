@@ -10,3 +10,13 @@ body {
   background-size: cover;
   height: 100vh;
 }
+a {
+  text-decoration: none !important;
+}
+p {
+  padding: 0;
+}
+
+.ReactModal__Overlay {
+  background-color: rgb(84 24 24 / 75%) !important;
+}
